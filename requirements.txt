@@ -1,0 +1,4 @@
+ultralytics==8.3.97
+roboflow==1.1.58
+supervision==0.25.1
+scikit-learn==1.6.1
